@@ -1,2 +1,8 @@
 # -TechSoc-25
-calculator
+calculator this calculator include basic function as 
+add
+Diff
+Product
+Divison
+Power
+
